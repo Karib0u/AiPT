@@ -1,0 +1,10 @@
+[
+  {
+    "name": "sysinfo",
+    "params": []
+  },
+  {
+    "name": "file",
+    "params": ["tree", "."]
+  }
+]
